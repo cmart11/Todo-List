@@ -20,7 +20,6 @@ window.setTimeout(function() {
 
 	console.log("You quit the app.");
 
-
 	function listTodos(){
 		console.log("**********");
 		todos.forEach(function(todo, idx){
