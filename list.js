@@ -44,7 +44,6 @@ window.setTimeout(function() {
 		todos.splice(index, 1);
 		console.log("Deleted todo.");
 	}
-
 }, 500);
 
 
