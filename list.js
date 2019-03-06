@@ -18,7 +18,7 @@ window.setTimeout(function() {
 	input = prompt("What would you like to do?");
 	}
 
-	console.log("You quit the app!");
+	console.log("You quit the app");
 
 	function listTodos(){
 		console.log("**********");
